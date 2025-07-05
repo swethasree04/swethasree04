@@ -17,8 +17,11 @@
 
 ### 🛠 Skills:
 *Languages:* JavaScript, HTML, CSS  
+
 *Frameworks:* React.js, Node.js, Express.js,Node.js
+
 *Database:* MongoDB,SQL
+
 *Other:* Git, GitHub, UI/UX, Data Analysis
 
 ---
