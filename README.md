@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Swetha Sree U!
 
-<!--
-**swethasree04/swethasree04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🎨 MERN Stack Developer
+📊 Data Analyst  
 
-Here are some ideas to get you started:
+🚀 I love building responsive web applications, solving real-world problems, and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with Me:
+- 🌐 *Portfolio:* [swethasree-portfolio.netlify.app](https://swethasree-portfolio.netlify.app)
+- 💼 *LinkedIn:* [Swetha Sree U](https://www.linkedin.com/in/swetha-s-7815a7257)
+- 📫 *Email:* swethanehru04@gmail.com
+
+---
+
+### 🛠 Skills:
+*Languages:* JavaScript, HTML, CSS  
+*Frameworks:* React.js, Node.js, Express.js,Node.js
+*Database:* MongoDB,SQL
+*Other:* Git, GitHub, UI/UX, Data Analysis
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my projects and connect!
